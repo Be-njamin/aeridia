@@ -6,7 +6,7 @@ const theme = require('../theme')
 module.exports = {
   'extensionButton.prominentForeground': theme.whiteDarkest,
   'extensionButton.prominentBackground': theme.magentaDarker,
-  'extensionButton.prominentHoverBackground': theme.null,
+  'extensionButton.prominentHoverBackground': theme.transparent,
   'extensionBadge.remoteBackground': theme.cyanDarker,
   'extensionBadge.remoteForeground': theme.whiteDarkest,
   'extensionIcon.starForeground': theme.yellow

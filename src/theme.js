@@ -1,12 +1,6 @@
 module.exports = {
   transparent: '#ffffff00',
 
-  null: '',
-  background: '',
-  backgroundDark: '',
-  foreground: '',
-  foregroundDark: '',
-
   hexAlpha_100: 'FF',
   hexAlpha_090: 'E6',
   hexAlpha_080: 'CC',
