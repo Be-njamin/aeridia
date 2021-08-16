@@ -11,7 +11,7 @@ Minimalistic VSCode Dark Color Theme. Inspired by [Gatito Theme](https://github.
 - Open Extensions on the sidebar
 - Search for `Aeridia`
 - Install and Select as Active Theme
-  - ⌘ + ⬆ + P
+  - ⌘ + ⇧ + P
   - Color Theme
   - Select `Aeridia`
 
