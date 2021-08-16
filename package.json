@@ -5,7 +5,7 @@
     "description": "Minimalistic VSCode Dark Color Theme.",
     "icon": "images/icon.png",
     "license": "MIT",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "Be-njamin",
     "maintainers": [
         "Benjamin Vasquez <benjamin@vasquez.digital>"
