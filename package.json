@@ -1,0 +1,45 @@
+{
+    "name": "aeridia",
+    "displayName": "Aeridia",
+    "homepage": "https://github.com/Be-njamin/aeridia",
+    "description": "Minimalistic VSCode Dark Color Theme.",
+    "icon": "images/icon.png",
+    "license": "MIT",
+    "version": "0.0.1",
+    "publisher": "Be-njamin",
+    "maintainers": [
+        "Benjamin Vasquez <benjamin@vasquez.digital>"
+    ],
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Aeridia",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Aeridia-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "aeridia",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Be-njamin/aeridia.git"
+    },
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "galleryBanner": {
+        "color": "#1e1e1e",
+        "theme": "dark"
+    }
+}
