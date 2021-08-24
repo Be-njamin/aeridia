@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Lists and Trees
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_lists-and-trees

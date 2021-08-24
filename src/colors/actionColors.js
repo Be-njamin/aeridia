@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Action Colors
 // https://code.visualstudio.com/api/references/theme-color#action-colors
@@ -6,5 +6,5 @@ const theme = require("../theme");
 module.exports = {
   'toolbar.hoverBackground': theme.black,
   'toolbar.hoverOutline': theme.transparent,
-  'toolbar.activeBackground': theme.grayDarker,
+  'toolbar.activeBackground': theme.grayDarker
 };

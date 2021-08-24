@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Activity Bar
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_activity-bar
@@ -14,4 +14,4 @@ module.exports = {
   'activityBar.activeBorder': theme.transparent,
   'activityBar.activeBackground': theme.blackLighter,
   'activityBar.activeFocusBorder': theme.whiteDarkest
-}
+};

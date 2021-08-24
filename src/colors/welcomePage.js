@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Welcome Page
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_welcome-page
@@ -12,5 +12,5 @@ module.exports = {
   'welcomePage.tileBackground': theme.blackDarker,
   'welcomePage.tileHoverBackground': theme.blackLighter,
   'welcomePage.tileShadow': `${theme.blackDarker}${theme.hexAlpha_020}`,
-  'walkThrough.embeddedEditorBackground': theme.blackDarkest,
-}
+  'walkThrough.embeddedEditorBackground': theme.blackDarkest
+};

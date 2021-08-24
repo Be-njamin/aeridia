@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Chart Colors
 // https://code.visualstudio.com/api/references/theme-color#chart-colors

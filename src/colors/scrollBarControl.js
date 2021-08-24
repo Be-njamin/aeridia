@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Scroll Bar Control
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_scroll-bar-control

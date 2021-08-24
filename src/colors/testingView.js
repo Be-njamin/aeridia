@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Testing View
 // https://code.visualstudio.com/api/references/theme-color#testing-view-colors
@@ -19,6 +19,5 @@ module.exports = {
   'testing.message.info.decorationForeground': theme.blueDarker,
   'testing.message.info.lineBackground': `${theme.blueDarker}${theme.hexAlpha_040}`,
   'testing.message.hint.decorationForeground': theme.cyanDarker,
-  'testing.message.hint.lineBackground': `${theme.cyanDarker}${theme.hexAlpha_040}`,
-
+  'testing.message.hint.lineBackground': `${theme.cyanDarker}${theme.hexAlpha_040}`
 };

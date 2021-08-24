@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Diff Editor Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_diff-editor-colors

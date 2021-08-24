@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Base Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_base-colors
@@ -12,4 +12,4 @@ module.exports = {
   errorForeground: theme.redLighter,
   'icon.foreground': theme.grayDarker,
   'sash.hoverBorder': theme.transparent
-}
+};

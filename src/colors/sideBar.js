@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Side Bar
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_side-bar
@@ -12,4 +12,4 @@ module.exports = {
   'sideBarSectionHeader.background': theme.black,
   'sideBarSectionHeader.foreground': theme.grayDarkest,
   'sideBarSectionHeader.border': theme.transparent
-}
+};

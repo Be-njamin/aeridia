@@ -65,5 +65,5 @@ module.exports = {
   magentaDarker: '#643264',
   magenta: '#963296',
   magentaLighter: '#c832c8',
-  magentaLightest: '#fa32fa',
-}
+  magentaLightest: '#fa32fa'
+};

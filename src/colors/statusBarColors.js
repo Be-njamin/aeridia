@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Status Bar Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_status-bar-colors

@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Symbol Icons
 // https://code.visualstudio.com/api/references/theme-color#symbol-icons-colors

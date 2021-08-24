@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Debug Colors
 // https://code.visualstudio.com/api/references/theme-color#debug-colors

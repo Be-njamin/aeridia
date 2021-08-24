@@ -1,6 +1,6 @@
-const fs = require('fs')
-const colors = require('./colors')
-const tokenColors = require('./tokenColors')
+const fs = require('fs');
+const colors = require('./colors');
+const tokenColors = require('./tokenColors');
 
 const theme = {
   name: 'Aeridia',
@@ -51,12 +51,16 @@ const theme = {
     ...colors.window
   },
   tokenColors
-}
+};
 
-fs.writeFile('themes/Aeridia-color-theme.json', JSON.stringify(theme), error => {
-  const log = error
-    ? { method: 'error', message: error }
-    : { method: 'log', message: 'Theme created' }
+fs.writeFile(
+  'themes/Aeridia-color-theme.json',
+  JSON.stringify(theme),
+  (error) => {
+    const log = error
+      ? { method: 'error', message: error }
+      : { method: 'log', message: 'Theme created' };
 
-  console[log.method](log.message)
-})
+    console[log.method](log.message);
+  }
+);

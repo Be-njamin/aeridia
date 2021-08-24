@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Panel Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_panel-colors
@@ -15,5 +15,5 @@ module.exports = {
   'panelSection.dropBackground': theme.blackLighter,
   'panelSectionHeader.background': theme.blackDarker,
   'panelSectionHeader.foreground': theme.grayLighter,
-  'panelSectionHeader.border': theme.transparent,
+  'panelSectionHeader.border': theme.transparent
 };

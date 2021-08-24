@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Extensions
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_extensions
@@ -10,4 +10,4 @@ module.exports = {
   'extensionBadge.remoteBackground': theme.cyanDarker,
   'extensionBadge.remoteForeground': theme.whiteDarkest,
   'extensionIcon.starForeground': theme.yellow
-}
+};

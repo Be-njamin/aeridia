@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Integrated Terminal Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_integrated-terminal-colors

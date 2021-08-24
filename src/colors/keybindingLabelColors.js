@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Keybinding Label Colors
 // https://code.visualstudio.com/api/references/theme-color#keybinding-label-colors
