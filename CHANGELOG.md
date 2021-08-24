@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.6
+
+- Update Preview Images with latest changes made in `0.0.5`
+
 ## 0.0.5
 
 - Tweak token colors to prevent color collision
