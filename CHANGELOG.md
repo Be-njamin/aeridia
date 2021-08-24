@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.0.7
+
+- Add a preview image to show some of the colors used for `Aeridia`
+
 ## 0.0.6
 
 - Update Preview Images with latest changes made in `0.0.5`
