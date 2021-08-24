@@ -1,9 +1,7 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Snippets
 // https://code.visualstudio.com/api/references/theme-color#snippets
-
-// TODO: Implement Snippets Colors
 
 module.exports = {
   'editor.snippetTabstopHighlightBackground': `${theme.gray}${theme.hexAlpha_020}`,

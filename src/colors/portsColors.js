@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Ports Colors
 // https://code.visualstudio.com/api/references/theme-color#ports-colors

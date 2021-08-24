@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Peek View Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_peek-view-colors
@@ -17,5 +17,5 @@ module.exports = {
   'peekViewResult.selectionForeground': theme.whiteDarkest,
   'peekViewTitle.background': theme.blackDarkest,
   'peekViewTitleDescription.foreground': theme.grayDarkest,
-  'peekViewTitleLabel.foreground': theme.whiteDarkest,
+  'peekViewTitleLabel.foreground': theme.whiteDarkest
 };

@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Merge Conflicts
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_merge-conflicts

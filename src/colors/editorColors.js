@@ -1,4 +1,4 @@
-const theme = require("../theme");
+const theme = require('../theme');
 
 // Editor Colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_editor-colors
@@ -84,5 +84,5 @@ module.exports = {
   'editorGutter.addedBackground': theme.greenDarker,
   'editorGutter.deletedBackground': theme.redDarker,
   'editorGutter.commentRangeForeground': theme.yellowDarker,
-  'editorGutter.foldingControlForeground': theme.whiteLightest,
+  'editorGutter.foldingControlForeground': theme.whiteLightest
 };

@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Breadcrumbs
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_breadcrumbs
@@ -9,4 +9,4 @@ module.exports = {
   'breadcrumb.focusForeground': theme.whiteLightest,
   'breadcrumb.activeSelectionForeground': theme.whiteDarker,
   'breadcrumbPicker.background': theme.blackDarkest
-}
+};

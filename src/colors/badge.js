@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Badge
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#_badge
@@ -6,4 +6,4 @@ const theme = require('../theme')
 module.exports = {
   'badge.foreground': theme.blackDarkest,
   'badge.background': theme.grayDarkest
-}
+};

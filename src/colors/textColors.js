@@ -1,4 +1,4 @@
-const theme = require('../theme')
+const theme = require('../theme');
 
 // Text colors
 // https://code.visualstudio.com/docs/getstarted/theme-color-reference#text-colors
@@ -11,4 +11,4 @@ module.exports = {
   'textLink.foreground': theme.cyanDarker,
   'textPreformat.foreground': theme.whiteDarker,
   'textSeparator.foreground': theme.whiteLighter
-}
+};
