@@ -6,6 +6,10 @@
 
 > Yet another Dark Color Theme for Visual Studio Code.
 
+---
+
+![Aeridia - Preview](images/Aeridia%20-%20Preview.png)
+
 # Installation
 
 - Open Extensions Tab in Sidebar
